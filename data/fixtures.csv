@@ -1,0 +1,1281 @@
+season,round,home_team,away_team,venue,date
+2021,1,Richmond,Carlton,M.C.G.,2021-03-18
+2021,1,Collingwood,Western Bulldogs,M.C.G.,2021-03-19
+2021,1,Adelaide,Geelong,Adelaide Oval,2021-03-20
+2021,1,Brisbane,Sydney,Gabba,2021-03-20
+2021,1,Essendon,Hawthorn,Docklands,2021-03-20
+2021,1,Melbourne,Fremantle,M.C.G.,2021-03-20
+2021,1,Greater Western Sydney,St Kilda,Sydney Showground,2021-03-21
+2021,1,North Melbourne,Port Adelaide,Docklands,2021-03-21
+2021,1,West Coast,Gold Coast,Perth Stadium,2021-03-21
+2021,2,Carlton,Collingwood,M.C.G.,2021-03-25
+2021,2,Geelong,Brisbane,Kardinia Park,2021-03-26
+2021,2,Gold Coast,North Melbourne,Carrara,2021-03-27
+2021,2,Port Adelaide,Essendon,Adelaide Oval,2021-03-27
+2021,2,St Kilda,Melbourne,Docklands,2021-03-27
+2021,2,Sydney,Adelaide,S.C.G.,2021-03-27
+2021,2,Fremantle,Greater Western Sydney,Perth Stadium,2021-03-28
+2021,2,Hawthorn,Richmond,M.C.G.,2021-03-28
+2021,2,Western Bulldogs,West Coast,Docklands,2021-03-28
+2021,3,Collingwood,Brisbane,Docklands,2021-04-01
+2021,3,Adelaide,Gold Coast,Adelaide Oval,2021-04-02
+2021,3,North Melbourne,Western Bulldogs,Docklands,2021-04-02
+2021,3,Essendon,St Kilda,Docklands,2021-04-03
+2021,3,Richmond,Sydney,M.C.G.,2021-04-03
+2021,3,West Coast,Port Adelaide,Perth Stadium,2021-04-03
+2021,3,Carlton,Fremantle,Docklands,2021-04-04
+2021,3,Greater Western Sydney,Melbourne,Manuka Oval,2021-04-04
+2021,3,Geelong,Hawthorn,M.C.G.,2021-04-05
+2021,4,Sydney,Essendon,S.C.G.,2021-04-08
+2021,4,Port Adelaide,Richmond,Adelaide Oval,2021-04-09
+2021,4,Collingwood,Greater Western Sydney,M.C.G.,2021-04-10
+2021,4,Gold Coast,Carlton,Carrara,2021-04-10
+2021,4,St Kilda,West Coast,Docklands,2021-04-10
+2021,4,Western Bulldogs,Brisbane,Eureka Stadium,2021-04-10
+2021,4,Fremantle,Hawthorn,Perth Stadium,2021-04-11
+2021,4,Melbourne,Geelong,M.C.G.,2021-04-11
+2021,4,North Melbourne,Adelaide,Docklands,2021-04-11
+2021,5,St Kilda,Richmond,Docklands,2021-04-15
+2021,5,West Coast,Collingwood,Perth Stadium,2021-04-16
+2021,5,Brisbane,Essendon,Gabba,2021-04-17
+2021,5,Carlton,Port Adelaide,M.C.G.,2021-04-17
+2021,5,Sydney,Greater Western Sydney,S.C.G.,2021-04-17
+2021,5,Western Bulldogs,Gold Coast,Docklands,2021-04-17
+2021,5,Adelaide,Fremantle,Adelaide Oval,2021-04-18
+2021,5,Geelong,North Melbourne,Kardinia Park,2021-04-18
+2021,5,Hawthorn,Melbourne,M.C.G.,2021-04-18
+2021,6,Greater Western Sydney,Western Bulldogs,Manuka Oval,2021-04-23
+2021,6,Carlton,Brisbane,Docklands,2021-04-24
+2021,6,Fremantle,North Melbourne,Perth Stadium,2021-04-24
+2021,6,Geelong,West Coast,Kardinia Park,2021-04-24
+2021,6,Gold Coast,Sydney,Carrara,2021-04-24
+2021,6,Melbourne,Richmond,M.C.G.,2021-04-24
+2021,6,Collingwood,Essendon,M.C.G.,2021-04-25
+2021,6,Hawthorn,Adelaide,York Park,2021-04-25
+2021,6,Port Adelaide,St Kilda,Adelaide Oval,2021-04-25
+2021,7,Richmond,Western Bulldogs,M.C.G.,2021-04-30
+2021,7,Adelaide,Greater Western Sydney,Adelaide Oval,2021-05-01
+2021,7,Brisbane,Port Adelaide,Gabba,2021-05-01
+2021,7,Collingwood,Gold Coast,M.C.G.,2021-05-01
+2021,7,St Kilda,Hawthorn,Docklands,2021-05-01
+2021,7,Sydney,Geelong,S.C.G.,2021-05-01
+2021,7,Essendon,Carlton,M.C.G.,2021-05-02
+2021,7,North Melbourne,Melbourne,Bellerive Oval,2021-05-02
+2021,7,West Coast,Fremantle,Perth Stadium,2021-05-02
+2021,8,Richmond,Geelong,M.C.G.,2021-05-07
+2021,8,Gold Coast,St Kilda,Carrara,2021-05-08
+2021,8,Greater Western Sydney,Essendon,Sydney Showground,2021-05-08
+2021,8,Melbourne,Sydney,M.C.G.,2021-05-08
+2021,8,North Melbourne,Collingwood,Docklands,2021-05-08
+2021,8,Port Adelaide,Adelaide,Adelaide Oval,2021-05-08
+2021,8,Brisbane,Fremantle,Gabba,2021-05-09
+2021,8,Hawthorn,West Coast,M.C.G.,2021-05-09
+2021,8,Western Bulldogs,Carlton,Docklands,2021-05-09
+2021,9,St Kilda,Geelong,Docklands,2021-05-14
+2021,9,Gold Coast,Brisbane,Carrara,2021-05-15
+2021,9,Hawthorn,North Melbourne,York Park,2021-05-15
+2021,9,Port Adelaide,Western Bulldogs,Adelaide Oval,2021-05-15
+2021,9,Richmond,Greater Western Sydney,Docklands,2021-05-15
+2021,9,Sydney,Collingwood,S.C.G.,2021-05-15
+2021,9,Essendon,Fremantle,Docklands,2021-05-16
+2021,9,Melbourne,Carlton,M.C.G.,2021-05-16
+2021,9,West Coast,Adelaide,Perth Stadium,2021-05-16
+2021,10,Brisbane,Richmond,Gabba,2021-05-21
+2021,10,Adelaide,Melbourne,Adelaide Oval,2021-05-22
+2021,10,Carlton,Hawthorn,M.C.G.,2021-05-22
+2021,10,Fremantle,Sydney,Perth Stadium,2021-05-22
+2021,10,Geelong,Gold Coast,Kardinia Park,2021-05-22
+2021,10,Western Bulldogs,St Kilda,Docklands,2021-05-22
+2021,10,Collingwood,Port Adelaide,M.C.G.,2021-05-23
+2021,10,Essendon,North Melbourne,Docklands,2021-05-23
+2021,10,Greater Western Sydney,West Coast,Sydney Showground,2021-05-23
+2021,11,Western Bulldogs,Melbourne,Docklands,2021-05-28
+2021,11,Brisbane,Greater Western Sydney,Gabba,2021-05-29
+2021,11,Collingwood,Geelong,M.C.G.,2021-05-29
+2021,11,Gold Coast,Hawthorn,S.C.G.,2021-05-29
+2021,11,St Kilda,North Melbourne,Docklands,2021-05-29
+2021,11,West Coast,Essendon,Perth Stadium,2021-05-29
+2021,11,Port Adelaide,Fremantle,Adelaide Oval,2021-05-30
+2021,11,Richmond,Adelaide,Sydney Showground,2021-05-30
+2021,11,Sydney,Carlton,S.C.G.,2021-05-30
+2021,12,Melbourne,Brisbane,Sydney Showground,2021-06-04
+2021,12,Adelaide,Collingwood,Adelaide Oval,2021-06-05
+2021,12,Essendon,Richmond,Perth Stadium,2021-06-05
+2021,12,Sydney,St Kilda,S.C.G.,2021-06-05
+2021,12,Carlton,West Coast,S.C.G.,2021-06-06
+2021,12,Fremantle,Western Bulldogs,Perth Stadium,2021-06-06
+2021,13,Port Adelaide,Geelong,Adelaide Oval,2021-06-10
+2021,13,Sydney,Hawthorn,S.C.G.,2021-06-11
+2021,13,Fremantle,Gold Coast,Perth Stadium,2021-06-12
+2021,13,St Kilda,Adelaide,Cazaly's Stadium,2021-06-12
+2021,13,North Melbourne,Greater Western Sydney,Bellerive Oval,2021-06-13
+2021,13,West Coast,Richmond,Perth Stadium,2021-06-13
+2021,13,Melbourne,Collingwood,S.C.G.,2021-06-14
+2021,14,Geelong,Western Bulldogs,Kardinia Park,2021-06-18
+2021,14,Gold Coast,Port Adelaide,Carrara,2021-06-19
+2021,14,Greater Western Sydney,Carlton,Sydney Showground,2021-06-19
+2021,14,North Melbourne,Brisbane,Bellerive Oval,2021-06-19
+2021,14,Hawthorn,Essendon,York Park,2021-06-20
+2021,15,Brisbane,Geelong,Gabba,2021-06-24
+2021,15,Richmond,St Kilda,M.C.G.,2021-06-25
+2021,15,Collingwood,Fremantle,Docklands,2021-06-26
+2021,15,Essendon,Melbourne,M.C.G.,2021-06-26
+2021,15,North Melbourne,Gold Coast,Bellerive Oval,2021-06-26
+2021,15,Port Adelaide,Sydney,Adelaide Oval,2021-06-26
+2021,15,Carlton,Adelaide,Docklands,2021-06-27
+2021,15,Greater Western Sydney,Hawthorn,M.C.G.,2021-06-27
+2021,15,West Coast,Western Bulldogs,Perth Stadium,2021-06-27
+2021,16,Gold Coast,Richmond,Docklands,2021-07-01
+2021,16,Geelong,Essendon,Kardinia Park,2021-07-02
+2021,16,Adelaide,Brisbane,Adelaide Oval,2021-07-03
+2021,16,Fremantle,Carlton,M.C.G.,2021-07-03
+2021,16,Hawthorn,Port Adelaide,Docklands,2021-07-03
+2021,16,Melbourne,Greater Western Sydney,M.C.G.,2021-07-03
+2021,16,Collingwood,St Kilda,M.C.G.,2021-07-04
+2021,16,Sydney,West Coast,Kardinia Park,2021-07-04
+2021,16,Western Bulldogs,North Melbourne,Docklands,2021-07-04
+2021,17,Port Adelaide,Melbourne,Adelaide Oval,2021-07-08
+2021,17,Essendon,Adelaide,Docklands,2021-07-09
+2021,17,Brisbane,St Kilda,Carrara,2021-07-10
+2021,17,Carlton,Geelong,M.C.G.,2021-07-10
+2021,17,Hawthorn,Fremantle,York Park,2021-07-10
+2021,17,Greater Western Sydney,Gold Coast,Eureka Stadium,2021-07-11
+2021,17,Richmond,Collingwood,M.C.G.,2021-07-11
+2021,17,Western Bulldogs,Sydney,Docklands,2021-07-11
+2021,17,West Coast,North Melbourne,Perth Stadium,2021-07-12
+2021,18,Fremantle,Geelong,Perth Stadium,2021-07-15
+2021,18,Richmond,Brisbane,Carrara,2021-07-16
+2021,18,Gold Coast,Western Bulldogs,Carrara,2021-07-17
+2021,18,Melbourne,Hawthorn,M.C.G.,2021-07-17
+2021,18,St Kilda,Port Adelaide,Docklands,2021-07-17
+2021,18,Adelaide,West Coast,Adelaide Oval,2021-07-18
+2021,18,Collingwood,Carlton,M.C.G.,2021-07-18
+2021,18,Greater Western Sydney,Sydney,Carrara,2021-07-18
+2021,18,North Melbourne,Essendon,Carrara,2021-07-18
+2021,19,Port Adelaide,Collingwood,Docklands,2021-07-23
+2021,19,Adelaide,Hawthorn,Docklands,2021-07-24
+2021,19,Brisbane,Gold Coast,Gabba,2021-07-24
+2021,19,Carlton,North Melbourne,Docklands,2021-07-24
+2021,19,Melbourne,Western Bulldogs,M.C.G.,2021-07-24
+2021,19,West Coast,St Kilda,Perth Stadium,2021-07-24
+2021,19,Essendon,Greater Western Sydney,Carrara,2021-07-25
+2021,19,Geelong,Richmond,M.C.G.,2021-07-25
+2021,19,Sydney,Fremantle,Carrara,2021-07-25
+2021,20,St Kilda,Carlton,Docklands,2021-07-30
+2021,20,Collingwood,West Coast,M.C.G.,2021-07-31
+2021,20,North Melbourne,Geelong,Bellerive Oval,2021-07-31
+2021,20,Western Bulldogs,Adelaide,Eureka Stadium,2021-07-31
+2021,20,Essendon,Sydney,M.C.G.,2021-08-01
+2021,20,Fremantle,Richmond,Perth Stadium,2021-08-01
+2021,20,Gold Coast,Melbourne,Docklands,2021-08-01
+2021,20,Greater Western Sydney,Port Adelaide,Docklands,2021-08-01
+2021,20,Hawthorn,Brisbane,York Park,2021-08-01
+2021,21,Geelong,Greater Western Sydney,Kardinia Park,2021-08-06
+2021,21,Adelaide,Port Adelaide,Adelaide Oval,2021-08-07
+2021,21,Carlton,Gold Coast,Docklands,2021-08-07
+2021,21,Richmond,North Melbourne,M.C.G.,2021-08-07
+2021,21,St Kilda,Sydney,Docklands,2021-08-07
+2021,21,Fremantle,Brisbane,Perth Stadium,2021-08-08
+2021,21,Hawthorn,Collingwood,M.C.G.,2021-08-08
+2021,21,Western Bulldogs,Essendon,Docklands,2021-08-08
+2021,21,West Coast,Melbourne,Perth Stadium,2021-08-09
+2021,22,Greater Western Sydney,Richmond,Docklands,2021-08-13
+2021,22,Brisbane,Collingwood,Gabba,2021-08-14
+2021,22,Geelong,St Kilda,Kardinia Park,2021-08-14
+2021,22,Hawthorn,Western Bulldogs,York Park,2021-08-14
+2021,22,North Melbourne,Sydney,Docklands,2021-08-14
+2021,22,Port Adelaide,Carlton,Adelaide Oval,2021-08-14
+2021,22,Fremantle,West Coast,Perth Stadium,2021-08-15
+2021,22,Gold Coast,Essendon,Kardinia Park,2021-08-15
+2021,22,Melbourne,Adelaide,M.C.G.,2021-08-15
+2021,23,Western Bulldogs,Port Adelaide,Docklands,2021-08-20
+2021,23,Brisbane,West Coast,Gabba,2021-08-21
+2021,23,Carlton,Greater Western Sydney,Docklands,2021-08-21
+2021,23,Geelong,Melbourne,Kardinia Park,2021-08-21
+2021,23,Richmond,Hawthorn,M.C.G.,2021-08-21
+2021,23,Sydney,Gold Coast,Docklands,2021-08-21
+2021,23,Adelaide,North Melbourne,Adelaide Oval,2021-08-22
+2021,23,Essendon,Collingwood,M.C.G.,2021-08-22
+2021,23,St Kilda,Fremantle,Bellerive Oval,2021-08-22
+2021,24,Port Adelaide,Geelong,Adelaide Oval,2021-08-27
+2021,24,Melbourne,Brisbane,Adelaide Oval,2021-08-28
+2021,24,Sydney,Greater Western Sydney,York Park,2021-08-28
+2021,24,Western Bulldogs,Essendon,York Park,2021-08-29
+2021,25,Geelong,Greater Western Sydney,Perth Stadium,2021-09-03
+2021,25,Brisbane,Western Bulldogs,Gabba,2021-09-04
+2021,26,Melbourne,Geelong,Perth Stadium,2021-09-10
+2021,26,Port Adelaide,Western Bulldogs,Adelaide Oval,2021-09-11
+2021,27,Melbourne,Western Bulldogs,Perth Stadium,2021-09-25
+2022,1,Melbourne,Western Bulldogs,M.C.G.,2022-03-16
+2022,1,Carlton,Richmond,M.C.G.,2022-03-17
+2022,1,St Kilda,Collingwood,Docklands,2022-03-18
+2022,1,Brisbane,Port Adelaide,Gabba,2022-03-19
+2022,1,Geelong,Essendon,M.C.G.,2022-03-19
+2022,1,Greater Western Sydney,Sydney,Stadium Australia,2022-03-19
+2022,1,Adelaide,Fremantle,Adelaide Oval,2022-03-20
+2022,1,Hawthorn,North Melbourne,M.C.G.,2022-03-20
+2022,1,West Coast,Gold Coast,Perth Stadium,2022-03-20
+2022,2,Western Bulldogs,Carlton,Docklands,2022-03-24
+2022,2,Sydney,Geelong,S.C.G.,2022-03-25
+2022,2,Collingwood,Adelaide,M.C.G.,2022-03-26
+2022,2,Essendon,Brisbane,Docklands,2022-03-26
+2022,2,Gold Coast,Melbourne,Carrara,2022-03-26
+2022,2,Port Adelaide,Hawthorn,Adelaide Oval,2022-03-26
+2022,2,Fremantle,St Kilda,Perth Stadium,2022-03-27
+2022,2,North Melbourne,West Coast,Docklands,2022-03-27
+2022,2,Richmond,Greater Western Sydney,M.C.G.,2022-03-27
+2022,3,Western Bulldogs,Sydney,Docklands,2022-03-31
+2022,3,Adelaide,Port Adelaide,Adelaide Oval,2022-04-01
+2022,3,Melbourne,Essendon,M.C.G.,2022-04-01
+2022,3,Brisbane,North Melbourne,Gabba,2022-04-02
+2022,3,Collingwood,Geelong,M.C.G.,2022-04-02
+2022,3,Greater Western Sydney,Gold Coast,Sydney Showground,2022-04-02
+2022,3,Carlton,Hawthorn,M.C.G.,2022-04-03
+2022,3,St Kilda,Richmond,Docklands,2022-04-03
+2022,3,West Coast,Fremantle,Perth Stadium,2022-04-03
+2022,4,Port Adelaide,Melbourne,Adelaide Oval,2022-04-07
+2022,4,Geelong,Brisbane,Kardinia Park,2022-04-08
+2022,4,Collingwood,West Coast,Docklands,2022-04-09
+2022,4,Fremantle,Greater Western Sydney,Perth Stadium,2022-04-09
+2022,4,Richmond,Western Bulldogs,M.C.G.,2022-04-09
+2022,4,Sydney,North Melbourne,S.C.G.,2022-04-09
+2022,4,Essendon,Adelaide,Docklands,2022-04-10
+2022,4,Gold Coast,Carlton,Carrara,2022-04-10
+2022,4,Hawthorn,St Kilda,M.C.G.,2022-04-10
+2022,5,Brisbane,Collingwood,Gabba,2022-04-14
+2022,5,North Melbourne,Western Bulldogs,Docklands,2022-04-15
+2022,5,West Coast,Sydney,Perth Stadium,2022-04-15
+2022,5,Adelaide,Richmond,Adelaide Oval,2022-04-16
+2022,5,Melbourne,Greater Western Sydney,M.C.G.,2022-04-16
+2022,5,St Kilda,Gold Coast,Docklands,2022-04-16
+2022,5,Carlton,Port Adelaide,M.C.G.,2022-04-17
+2022,5,Essendon,Fremantle,Docklands,2022-04-17
+2022,5,Hawthorn,Geelong,M.C.G.,2022-04-18
+2022,6,Greater Western Sydney,St Kilda,Manuka Oval,2022-04-22
+2022,6,Fremantle,Carlton,Perth Stadium,2022-04-23
+2022,6,Port Adelaide,West Coast,Adelaide Oval,2022-04-23
+2022,6,Western Bulldogs,Adelaide,Eureka Stadium,2022-04-23
+2022,6,Gold Coast,Brisbane,Carrara,2022-04-24
+2022,6,North Melbourne,Geelong,Bellerive Oval,2022-04-24
+2022,6,Richmond,Melbourne,M.C.G.,2022-04-24
+2022,6,Essendon,Collingwood,M.C.G.,2022-04-25
+2022,6,Hawthorn,Sydney,York Park,2022-04-25
+2022,7,West Coast,Richmond,Perth Stadium,2022-04-29
+2022,7,Adelaide,Greater Western Sydney,Adelaide Oval,2022-04-30
+2022,7,Carlton,North Melbourne,Docklands,2022-04-30
+2022,7,Geelong,Fremantle,Kardinia Park,2022-04-30
+2022,7,Melbourne,Hawthorn,M.C.G.,2022-04-30
+2022,7,St Kilda,Port Adelaide,Cazaly's Stadium,2022-04-30
+2022,7,Collingwood,Gold Coast,M.C.G.,2022-05-01
+2022,7,Sydney,Brisbane,S.C.G.,2022-05-01
+2022,7,Western Bulldogs,Essendon,Docklands,2022-05-01
+2022,8,Fremantle,North Melbourne,Perth Stadium,2022-05-06
+2022,8,Port Adelaide,Western Bulldogs,Adelaide Oval,2022-05-06
+2022,8,Brisbane,West Coast,Gabba,2022-05-07
+2022,8,Essendon,Hawthorn,Docklands,2022-05-07
+2022,8,Greater Western Sydney,Geelong,Manuka Oval,2022-05-07
+2022,8,Richmond,Collingwood,M.C.G.,2022-05-07
+2022,8,Sydney,Gold Coast,S.C.G.,2022-05-07
+2022,8,Carlton,Adelaide,Docklands,2022-05-08
+2022,8,Melbourne,St Kilda,M.C.G.,2022-05-08
+2022,9,Collingwood,Western Bulldogs,Docklands,2022-05-13
+2022,9,Adelaide,Brisbane,Adelaide Oval,2022-05-14
+2022,9,Hawthorn,Richmond,M.C.G.,2022-05-14
+2022,9,North Melbourne,Port Adelaide,Bellerive Oval,2022-05-14
+2022,9,St Kilda,Geelong,Docklands,2022-05-14
+2022,9,Sydney,Essendon,S.C.G.,2022-05-14
+2022,9,Gold Coast,Fremantle,Carrara,2022-05-15
+2022,9,Greater Western Sydney,Carlton,Sydney Showground,2022-05-15
+2022,9,West Coast,Melbourne,Perth Stadium,2022-05-15
+2022,10,Carlton,Sydney,Docklands,2022-05-20
+2022,10,Adelaide,St Kilda,Adelaide Oval,2022-05-21
+2022,10,Geelong,Port Adelaide,Kardinia Park,2022-05-21
+2022,10,North Melbourne,Melbourne,Docklands,2022-05-21
+2022,10,Richmond,Essendon,M.C.G.,2022-05-21
+2022,10,Western Bulldogs,Gold Coast,Eureka Stadium,2022-05-21
+2022,10,Fremantle,Collingwood,Perth Stadium,2022-05-22
+2022,10,Greater Western Sydney,West Coast,Sydney Showground,2022-05-22
+2022,10,Hawthorn,Brisbane,York Park,2022-05-22
+2022,11,Sydney,Richmond,S.C.G.,2022-05-27
+2022,11,Brisbane,Greater Western Sydney,Gabba,2022-05-28
+2022,11,Geelong,Adelaide,Kardinia Park,2022-05-28
+2022,11,Gold Coast,Hawthorn,Marrara Oval,2022-05-28
+2022,11,Melbourne,Fremantle,M.C.G.,2022-05-28
+2022,11,West Coast,Western Bulldogs,Perth Stadium,2022-05-28
+2022,11,Collingwood,Carlton,M.C.G.,2022-05-29
+2022,11,Port Adelaide,Essendon,Adelaide Oval,2022-05-29
+2022,11,St Kilda,North Melbourne,Docklands,2022-05-29
+2022,12,Western Bulldogs,Geelong,Docklands,2022-06-03
+2022,12,Adelaide,West Coast,Adelaide Oval,2022-06-04
+2022,12,Gold Coast,North Melbourne,Marrara Oval,2022-06-04
+2022,12,Melbourne,Sydney,M.C.G.,2022-06-04
+2022,12,Fremantle,Brisbane,Perth Stadium,2022-06-05
+2022,12,Hawthorn,Collingwood,M.C.G.,2022-06-05
+2022,13,Richmond,Port Adelaide,M.C.G.,2022-06-09
+2022,13,Essendon,Carlton,M.C.G.,2022-06-10
+2022,13,Brisbane,St Kilda,Gabba,2022-06-11
+2022,13,Fremantle,Hawthorn,Perth Stadium,2022-06-11
+2022,13,North Melbourne,Greater Western Sydney,Docklands,2022-06-12
+2022,13,Collingwood,Melbourne,M.C.G.,2022-06-13
+2022,14,Richmond,Carlton,M.C.G.,2022-06-16
+2022,14,St Kilda,Essendon,Docklands,2022-06-17
+2022,14,Greater Western Sydney,Western Bulldogs,Sydney Showground,2022-06-18
+2022,14,Port Adelaide,Sydney,Adelaide Oval,2022-06-18
+2022,14,West Coast,Geelong,Perth Stadium,2022-06-18
+2022,14,Gold Coast,Adelaide,Carrara,2022-06-19
+2022,15,Melbourne,Brisbane,M.C.G.,2022-06-23
+2022,15,West Coast,Essendon,Perth Stadium,2022-06-24
+2022,15,Western Bulldogs,Hawthorn,Docklands,2022-06-24
+2022,15,Carlton,Fremantle,Docklands,2022-06-25
+2022,15,Geelong,Richmond,M.C.G.,2022-06-25
+2022,15,Sydney,St Kilda,S.C.G.,2022-06-25
+2022,15,Collingwood,Greater Western Sydney,M.C.G.,2022-06-26
+2022,15,North Melbourne,Adelaide,Bellerive Oval,2022-06-26
+2022,15,Port Adelaide,Gold Coast,Adelaide Oval,2022-06-26
+2022,16,Brisbane,Western Bulldogs,Gabba,2022-06-30
+2022,16,Carlton,St Kilda,Docklands,2022-07-01
+2022,16,Adelaide,Melbourne,Adelaide Oval,2022-07-02
+2022,16,Essendon,Sydney,M.C.G.,2022-07-02
+2022,16,Geelong,North Melbourne,Kardinia Park,2022-07-02
+2022,16,Gold Coast,Collingwood,Carrara,2022-07-02
+2022,16,Fremantle,Port Adelaide,Perth Stadium,2022-07-03
+2022,16,Greater Western Sydney,Hawthorn,Sydney Showground,2022-07-03
+2022,16,Richmond,West Coast,M.C.G.,2022-07-03
+2022,17,Geelong,Melbourne,Kardinia Park,2022-07-07
+2022,17,Sydney,Western Bulldogs,S.C.G.,2022-07-08
+2022,17,Collingwood,North Melbourne,M.C.G.,2022-07-09
+2022,17,Gold Coast,Richmond,Carrara,2022-07-09
+2022,17,Port Adelaide,Greater Western Sydney,Adelaide Oval,2022-07-09
+2022,17,St Kilda,Fremantle,Docklands,2022-07-09
+2022,17,Brisbane,Essendon,Gabba,2022-07-10
+2022,17,Hawthorn,Adelaide,Docklands,2022-07-10
+2022,17,West Coast,Carlton,Perth Stadium,2022-07-10
+2022,18,Western Bulldogs,St Kilda,Docklands,2022-07-15
+2022,18,Adelaide,Collingwood,Adelaide Oval,2022-07-16
+2022,18,Carlton,Geelong,M.C.G.,2022-07-16
+2022,18,Fremantle,Sydney,Perth Stadium,2022-07-16
+2022,18,Greater Western Sydney,Brisbane,Manuka Oval,2022-07-16
+2022,18,North Melbourne,Richmond,Docklands,2022-07-16
+2022,18,Essendon,Gold Coast,Docklands,2022-07-17
+2022,18,Hawthorn,West Coast,M.C.G.,2022-07-17
+2022,18,Melbourne,Port Adelaide,Traeger Park,2022-07-17
+2022,19,Richmond,Fremantle,Docklands,2022-07-22
+2022,19,Brisbane,Gold Coast,Gabba,2022-07-23
+2022,19,North Melbourne,Hawthorn,Bellerive Oval,2022-07-23
+2022,19,Port Adelaide,Geelong,Adelaide Oval,2022-07-23
+2022,19,Sydney,Adelaide,S.C.G.,2022-07-23
+2022,19,Western Bulldogs,Melbourne,Docklands,2022-07-23
+2022,19,Carlton,Greater Western Sydney,Docklands,2022-07-24
+2022,19,Collingwood,Essendon,M.C.G.,2022-07-24
+2022,19,West Coast,St Kilda,Perth Stadium,2022-07-24
+2022,20,Fremantle,Melbourne,Perth Stadium,2022-07-29
+2022,20,Adelaide,Carlton,Adelaide Oval,2022-07-30
+2022,20,Collingwood,Port Adelaide,M.C.G.,2022-07-30
+2022,20,Geelong,Western Bulldogs,Kardinia Park,2022-07-30
+2022,20,St Kilda,Hawthorn,Docklands,2022-07-30
+2022,20,Sydney,Greater Western Sydney,S.C.G.,2022-07-30
+2022,20,Essendon,North Melbourne,Docklands,2022-07-31
+2022,20,Gold Coast,West Coast,Carrara,2022-07-31
+2022,20,Richmond,Brisbane,M.C.G.,2022-07-31
+2022,21,Melbourne,Collingwood,M.C.G.,2022-08-05
+2022,21,Geelong,St Kilda,Kardinia Park,2022-08-06
+2022,21,Greater Western Sydney,Essendon,Sydney Showground,2022-08-06
+2022,21,Hawthorn,Gold Coast,York Park,2022-08-06
+2022,21,Port Adelaide,Richmond,Adelaide Oval,2022-08-06
+2022,21,Western Bulldogs,Fremantle,Docklands,2022-08-06
+2022,21,Brisbane,Carlton,Gabba,2022-08-07
+2022,21,North Melbourne,Sydney,Docklands,2022-08-07
+2022,21,West Coast,Adelaide,Perth Stadium,2022-08-07
+2022,22,St Kilda,Brisbane,Docklands,2022-08-12
+2022,22,Adelaide,North Melbourne,Adelaide Oval,2022-08-13
+2022,22,Fremantle,West Coast,Perth Stadium,2022-08-13
+2022,22,Gold Coast,Geelong,Carrara,2022-08-13
+2022,22,Melbourne,Carlton,M.C.G.,2022-08-13
+2022,22,Western Bulldogs,Greater Western Sydney,Docklands,2022-08-13
+2022,22,Essendon,Port Adelaide,Docklands,2022-08-14
+2022,22,Richmond,Hawthorn,M.C.G.,2022-08-14
+2022,22,Sydney,Collingwood,S.C.G.,2022-08-14
+2022,23,Brisbane,Melbourne,Gabba,2022-08-19
+2022,23,Essendon,Richmond,M.C.G.,2022-08-20
+2022,23,Geelong,West Coast,Kardinia Park,2022-08-20
+2022,23,Greater Western Sydney,Fremantle,Manuka Oval,2022-08-20
+2022,23,North Melbourne,Gold Coast,Docklands,2022-08-20
+2022,23,Port Adelaide,Adelaide,Adelaide Oval,2022-08-20
+2022,23,Carlton,Collingwood,M.C.G.,2022-08-21
+2022,23,Hawthorn,Western Bulldogs,York Park,2022-08-21
+2022,23,St Kilda,Sydney,Docklands,2022-08-21
+2022,24,Brisbane,Richmond,Gabba,2022-09-01
+2022,24,Melbourne,Sydney,M.C.G.,2022-09-02
+2022,24,Fremantle,Western Bulldogs,Perth Stadium,2022-09-03
+2022,24,Geelong,Collingwood,M.C.G.,2022-09-03
+2022,25,Melbourne,Brisbane,M.C.G.,2022-09-09
+2022,25,Collingwood,Fremantle,M.C.G.,2022-09-10
+2022,26,Geelong,Brisbane,M.C.G.,2022-09-16
+2022,26,Sydney,Collingwood,S.C.G.,2022-09-17
+2022,27,Geelong,Sydney,M.C.G.,2022-09-24
+2023,1,Richmond,Carlton,M.C.G.,2023-03-16
+2023,1,Geelong,Collingwood,M.C.G.,2023-03-17
+2023,1,Gold Coast,Sydney,Carrara,2023-03-18
+2023,1,Melbourne,Western Bulldogs,M.C.G.,2023-03-18
+2023,1,North Melbourne,West Coast,Docklands,2023-03-18
+2023,1,Port Adelaide,Brisbane,Adelaide Oval,2023-03-18
+2023,1,Greater Western Sydney,Adelaide,Sydney Showground,2023-03-19
+2023,1,Hawthorn,Essendon,M.C.G.,2023-03-19
+2023,1,St Kilda,Fremantle,Docklands,2023-03-19
+2023,2,Carlton,Geelong,M.C.G.,2023-03-23
+2023,2,Brisbane,Melbourne,Gabba,2023-03-24
+2023,2,Adelaide,Richmond,Adelaide Oval,2023-03-25
+2023,2,Collingwood,Port Adelaide,M.C.G.,2023-03-25
+2023,2,Fremantle,North Melbourne,Perth Stadium,2023-03-25
+2023,2,Western Bulldogs,St Kilda,Docklands,2023-03-25
+2023,2,Essendon,Gold Coast,Docklands,2023-03-26
+2023,2,Sydney,Hawthorn,S.C.G.,2023-03-26
+2023,2,West Coast,Greater Western Sydney,Perth Stadium,2023-03-26
+2023,3,Western Bulldogs,Brisbane,Docklands,2023-03-30
+2023,3,Collingwood,Richmond,M.C.G.,2023-03-31
+2023,3,Greater Western Sydney,Carlton,Sydney Showground,2023-04-01
+2023,3,Hawthorn,North Melbourne,York Park,2023-04-01
+2023,3,Port Adelaide,Adelaide,Adelaide Oval,2023-04-01
+2023,3,St Kilda,Essendon,M.C.G.,2023-04-01
+2023,3,Fremantle,West Coast,Perth Stadium,2023-04-02
+2023,3,Gold Coast,Geelong,Carrara,2023-04-02
+2023,3,Melbourne,Sydney,M.C.G.,2023-04-02
+2023,4,Brisbane,Collingwood,Gabba,2023-04-06
+2023,4,North Melbourne,Carlton,Docklands,2023-04-07
+2023,4,Adelaide,Fremantle,Adelaide Oval,2023-04-08
+2023,4,Richmond,Western Bulldogs,M.C.G.,2023-04-08
+2023,4,St Kilda,Gold Coast,Docklands,2023-04-08
+2023,4,Sydney,Port Adelaide,S.C.G.,2023-04-08
+2023,4,Essendon,Greater Western Sydney,Docklands,2023-04-09
+2023,4,West Coast,Melbourne,Perth Stadium,2023-04-09
+2023,4,Geelong,Hawthorn,M.C.G.,2023-04-10
+2023,5,Adelaide,Carlton,Adelaide Oval,2023-04-13
+2023,5,Fremantle,Gold Coast,Norwood Oval,2023-04-14
+2023,5,Richmond,Sydney,Adelaide Oval,2023-04-14
+2023,5,Brisbane,North Melbourne,Adelaide Hills,2023-04-15
+2023,5,Essendon,Melbourne,Adelaide Oval,2023-04-15
+2023,5,Port Adelaide,Western Bulldogs,Adelaide Oval,2023-04-15
+2023,5,Collingwood,St Kilda,Adelaide Oval,2023-04-16
+2023,5,Geelong,West Coast,Adelaide Oval,2023-04-16
+2023,5,Greater Western Sydney,Hawthorn,Norwood Oval,2023-04-16
+2023,6,Fremantle,Western Bulldogs,Perth Stadium,2023-04-21
+2023,6,Geelong,Sydney,Kardinia Park,2023-04-22
+2023,6,Greater Western Sydney,Brisbane,Manuka Oval,2023-04-22
+2023,6,Port Adelaide,West Coast,Adelaide Oval,2023-04-22
+2023,6,Carlton,St Kilda,Docklands,2023-04-23
+2023,6,Gold Coast,North Melbourne,Carrara,2023-04-23
+2023,6,Hawthorn,Adelaide,York Park,2023-04-23
+2023,6,Melbourne,Richmond,M.C.G.,2023-04-24
+2023,6,Collingwood,Essendon,M.C.G.,2023-04-25
+2023,7,St Kilda,Port Adelaide,Docklands,2023-04-28
+2023,7,Brisbane,Fremantle,Gabba,2023-04-29
+2023,7,Melbourne,North Melbourne,M.C.G.,2023-04-29
+2023,7,Sydney,Greater Western Sydney,S.C.G.,2023-04-29
+2023,7,West Coast,Carlton,Perth Stadium,2023-04-29
+2023,7,Western Bulldogs,Hawthorn,Docklands,2023-04-29
+2023,7,Adelaide,Collingwood,Adelaide Oval,2023-04-30
+2023,7,Essendon,Geelong,M.C.G.,2023-04-30
+2023,7,Richmond,Gold Coast,Docklands,2023-04-30
+2023,8,Carlton,Brisbane,Docklands,2023-05-05
+2023,8,Fremantle,Hawthorn,Perth Stadium,2023-05-06
+2023,8,Geelong,Adelaide,Kardinia Park,2023-05-06
+2023,8,Gold Coast,Melbourne,Carrara,2023-05-06
+2023,8,Greater Western Sydney,Western Bulldogs,Manuka Oval,2023-05-06
+2023,8,Richmond,West Coast,M.C.G.,2023-05-06
+2023,8,Collingwood,Sydney,M.C.G.,2023-05-07
+2023,8,North Melbourne,St Kilda,Docklands,2023-05-07
+2023,8,Port Adelaide,Essendon,Adelaide Oval,2023-05-07
+2023,9,Richmond,Geelong,M.C.G.,2023-05-12
+2023,9,West Coast,Gold Coast,Perth Stadium,2023-05-12
+2023,9,Brisbane,Essendon,Gabba,2023-05-13
+2023,9,Carlton,Western Bulldogs,Docklands,2023-05-13
+2023,9,Hawthorn,Melbourne,M.C.G.,2023-05-13
+2023,9,North Melbourne,Port Adelaide,Bellerive Oval,2023-05-13
+2023,9,Sydney,Fremantle,S.C.G.,2023-05-13
+2023,9,Adelaide,St Kilda,Adelaide Oval,2023-05-14
+2023,9,Collingwood,Greater Western Sydney,M.C.G.,2023-05-14
+2023,10,Port Adelaide,Melbourne,Adelaide Oval,2023-05-19
+2023,10,Brisbane,Gold Coast,Gabba,2023-05-20
+2023,10,Essendon,Richmond,M.C.G.,2023-05-20
+2023,10,Fremantle,Geelong,Perth Stadium,2023-05-20
+2023,10,North Melbourne,Sydney,Docklands,2023-05-20
+2023,10,Western Bulldogs,Adelaide,Eureka Stadium,2023-05-20
+2023,10,Carlton,Collingwood,M.C.G.,2023-05-21
+2023,10,Greater Western Sydney,St Kilda,Sydney Showground,2023-05-21
+2023,10,Hawthorn,West Coast,York Park,2023-05-21
+2023,11,Sydney,Carlton,S.C.G.,2023-05-26
+2023,11,Geelong,Greater Western Sydney,Kardinia Park,2023-05-27
+2023,11,Gold Coast,Western Bulldogs,Marrara Oval,2023-05-27
+2023,11,Melbourne,Fremantle,M.C.G.,2023-05-27
+2023,11,St Kilda,Hawthorn,Docklands,2023-05-27
+2023,11,West Coast,Essendon,Perth Stadium,2023-05-27
+2023,11,Adelaide,Brisbane,Adelaide Oval,2023-05-28
+2023,11,Collingwood,North Melbourne,Docklands,2023-05-28
+2023,11,Richmond,Port Adelaide,M.C.G.,2023-05-28
+2023,12,Melbourne,Carlton,M.C.G.,2023-06-02
+2023,12,Gold Coast,Adelaide,Marrara Oval,2023-06-03
+2023,12,Port Adelaide,Hawthorn,Adelaide Oval,2023-06-03
+2023,12,West Coast,Collingwood,Perth Stadium,2023-06-03
+2023,12,Western Bulldogs,Geelong,Docklands,2023-06-03
+2023,12,Essendon,North Melbourne,Docklands,2023-06-04
+2023,12,Greater Western Sydney,Richmond,Sydney Showground,2023-06-04
+2023,13,Sydney,St Kilda,S.C.G.,2023-06-08
+2023,13,Western Bulldogs,Port Adelaide,Docklands,2023-06-09
+2023,13,Adelaide,West Coast,Adelaide Oval,2023-06-10
+2023,13,Fremantle,Richmond,Perth Stadium,2023-06-10
+2023,13,Hawthorn,Brisbane,M.C.G.,2023-06-10
+2023,13,Carlton,Essendon,M.C.G.,2023-06-11
+2023,13,North Melbourne,Greater Western Sydney,Bellerive Oval,2023-06-11
+2023,13,Melbourne,Collingwood,M.C.G.,2023-06-12
+2023,14,Port Adelaide,Geelong,Adelaide Oval,2023-06-15
+2023,14,Brisbane,Sydney,Gabba,2023-06-16
+2023,14,Greater Western Sydney,Fremantle,Sydney Showground,2023-06-17
+2023,14,Richmond,St Kilda,M.C.G.,2023-06-17
+2023,14,Carlton,Gold Coast,M.C.G.,2023-06-18
+2023,14,North Melbourne,Western Bulldogs,Docklands,2023-06-18
+2023,15,Geelong,Melbourne,Kardinia Park,2023-06-22
+2023,15,St Kilda,Brisbane,Docklands,2023-06-23
+2023,15,Fremantle,Essendon,Perth Stadium,2023-06-24
+2023,15,Sydney,West Coast,S.C.G.,2023-06-24
+2023,15,Collingwood,Adelaide,M.C.G.,2023-06-25
+2023,15,Gold Coast,Hawthorn,Carrara,2023-06-25
+2023,16,Brisbane,Richmond,Gabba,2023-06-29
+2023,16,Sydney,Geelong,S.C.G.,2023-06-30
+2023,16,Adelaide,North Melbourne,Adelaide Oval,2023-07-01
+2023,16,Essendon,Port Adelaide,M.C.G.,2023-07-01
+2023,16,Gold Coast,Collingwood,Carrara,2023-07-01
+2023,16,Western Bulldogs,Fremantle,Docklands,2023-07-01
+2023,16,Hawthorn,Carlton,M.C.G.,2023-07-02
+2023,16,Melbourne,Greater Western Sydney,Traeger Park,2023-07-02
+2023,16,West Coast,St Kilda,Perth Stadium,2023-07-02
+2023,17,Richmond,Sydney,M.C.G.,2023-07-06
+2023,17,Western Bulldogs,Collingwood,Docklands,2023-07-07
+2023,17,Brisbane,West Coast,Gabba,2023-07-08
+2023,17,Greater Western Sydney,Hawthorn,Sydney Showground,2023-07-08
+2023,17,Port Adelaide,Gold Coast,Adelaide Oval,2023-07-08
+2023,17,St Kilda,Melbourne,Docklands,2023-07-08
+2023,17,Essendon,Adelaide,Docklands,2023-07-09
+2023,17,Fremantle,Carlton,Perth Stadium,2023-07-09
+2023,17,Geelong,North Melbourne,Kardinia Park,2023-07-09
+2023,18,Sydney,Western Bulldogs,S.C.G.,2023-07-13
+2023,18,Melbourne,Brisbane,M.C.G.,2023-07-14
+2023,18,Adelaide,Greater Western Sydney,Adelaide Oval,2023-07-15
+2023,18,Carlton,Port Adelaide,Docklands,2023-07-15
+2023,18,Collingwood,Fremantle,M.C.G.,2023-07-15
+2023,18,Geelong,Essendon,Kardinia Park,2023-07-15
+2023,18,Gold Coast,St Kilda,Carrara,2023-07-15
+2023,18,North Melbourne,Hawthorn,Docklands,2023-07-16
+2023,18,West Coast,Richmond,Perth Stadium,2023-07-16
+2023,19,Essendon,Western Bulldogs,Docklands,2023-07-21
+2023,19,Brisbane,Geelong,Gabba,2023-07-22
+2023,19,Carlton,West Coast,Docklands,2023-07-22
+2023,19,Fremantle,Sydney,Perth Stadium,2023-07-22
+2023,19,Port Adelaide,Collingwood,Adelaide Oval,2023-07-22
+2023,19,Richmond,Hawthorn,M.C.G.,2023-07-22
+2023,19,Greater Western Sydney,Gold Coast,Manuka Oval,2023-07-23
+2023,19,Melbourne,Adelaide,M.C.G.,2023-07-23
+2023,19,St Kilda,North Melbourne,Docklands,2023-07-23
+2023,20,Collingwood,Carlton,M.C.G.,2023-07-28
+2023,20,Adelaide,Port Adelaide,Adelaide Oval,2023-07-29
+2023,20,Essendon,Sydney,Docklands,2023-07-29
+2023,20,Geelong,Fremantle,Kardinia Park,2023-07-29
+2023,20,Gold Coast,Brisbane,Carrara,2023-07-29
+2023,20,Western Bulldogs,Greater Western Sydney,Eureka Stadium,2023-07-29
+2023,20,Hawthorn,St Kilda,Docklands,2023-07-30
+2023,20,Richmond,Melbourne,M.C.G.,2023-07-30
+2023,20,West Coast,North Melbourne,Perth Stadium,2023-07-30
+2023,21,Western Bulldogs,Richmond,Docklands,2023-08-04
+2023,21,Adelaide,Gold Coast,Adelaide Oval,2023-08-05
+2023,21,Essendon,West Coast,Docklands,2023-08-05
+2023,21,Geelong,Port Adelaide,Kardinia Park,2023-08-05
+2023,21,Greater Western Sydney,Sydney,Sydney Showground,2023-08-05
+2023,21,Hawthorn,Collingwood,M.C.G.,2023-08-05
+2023,21,Fremantle,Brisbane,Perth Stadium,2023-08-06
+2023,21,North Melbourne,Melbourne,Bellerive Oval,2023-08-06
+2023,21,St Kilda,Carlton,Docklands,2023-08-06
+2023,22,Collingwood,Geelong,M.C.G.,2023-08-11
+2023,22,Brisbane,Adelaide,Gabba,2023-08-12
+2023,22,Carlton,Melbourne,M.C.G.,2023-08-12
+2023,22,North Melbourne,Essendon,Docklands,2023-08-12
+2023,22,Sydney,Gold Coast,S.C.G.,2023-08-12
+2023,22,West Coast,Fremantle,Perth Stadium,2023-08-12
+2023,22,Hawthorn,Western Bulldogs,York Park,2023-08-13
+2023,22,Port Adelaide,Greater Western Sydney,Adelaide Oval,2023-08-13
+2023,22,St Kilda,Richmond,Docklands,2023-08-13
+2023,23,Collingwood,Brisbane,Docklands,2023-08-18
+2023,23,Adelaide,Sydney,Adelaide Oval,2023-08-19
+2023,23,Gold Coast,Carlton,Carrara,2023-08-19
+2023,23,Greater Western Sydney,Essendon,Sydney Showground,2023-08-19
+2023,23,Richmond,North Melbourne,M.C.G.,2023-08-19
+2023,23,St Kilda,Geelong,Docklands,2023-08-19
+2023,23,Fremantle,Port Adelaide,Perth Stadium,2023-08-20
+2023,23,Melbourne,Hawthorn,M.C.G.,2023-08-20
+2023,23,Western Bulldogs,West Coast,Docklands,2023-08-20
+2023,24,Essendon,Collingwood,M.C.G.,2023-08-25
+2023,24,Brisbane,St Kilda,Gabba,2023-08-26
+2023,24,Geelong,Western Bulldogs,Kardinia Park,2023-08-26
+2023,24,Hawthorn,Fremantle,M.C.G.,2023-08-26
+2023,24,North Melbourne,Gold Coast,Bellerive Oval,2023-08-26
+2023,24,West Coast,Adelaide,Perth Stadium,2023-08-26
+2023,24,Carlton,Greater Western Sydney,Docklands,2023-08-27
+2023,24,Port Adelaide,Richmond,Adelaide Oval,2023-08-27
+2023,24,Sydney,Melbourne,S.C.G.,2023-08-27
+2023,25,Collingwood,Melbourne,M.C.G.,2023-09-07
+2023,25,Carlton,Sydney,M.C.G.,2023-09-08
+2023,25,Brisbane,Port Adelaide,Gabba,2023-09-09
+2023,25,St Kilda,Greater Western Sydney,M.C.G.,2023-09-09
+2023,26,Melbourne,Carlton,M.C.G.,2023-09-15
+2023,26,Port Adelaide,Greater Western Sydney,Adelaide Oval,2023-09-16
+2023,27,Collingwood,Greater Western Sydney,M.C.G.,2023-09-22
+2023,27,Brisbane,Carlton,Gabba,2023-09-23
+2023,28,Collingwood,Brisbane,M.C.G.,2023-09-30
+2024,0,Sydney,Melbourne,S.C.G.,2024-03-07
+2024,0,Brisbane,Carlton,Gabba,2024-03-08
+2024,0,Gold Coast,Richmond,Carrara,2024-03-09
+2024,0,Greater Western Sydney,Collingwood,Sydney Showground,2024-03-09
+2024,1,Carlton,Richmond,M.C.G.,2024-03-14
+2024,1,Collingwood,Sydney,M.C.G.,2024-03-15
+2024,1,Essendon,Hawthorn,M.C.G.,2024-03-16
+2024,1,Geelong,St Kilda,Kardinia Park,2024-03-16
+2024,1,Gold Coast,Adelaide,Carrara,2024-03-16
+2024,1,Greater Western Sydney,North Melbourne,Sydney Showground,2024-03-16
+2024,1,Fremantle,Brisbane,Perth Stadium,2024-03-17
+2024,1,Melbourne,Western Bulldogs,M.C.G.,2024-03-17
+2024,1,Port Adelaide,West Coast,Adelaide Oval,2024-03-17
+2024,2,St Kilda,Collingwood,M.C.G.,2024-03-21
+2024,2,Adelaide,Geelong,Adelaide Oval,2024-03-22
+2024,2,Hawthorn,Melbourne,M.C.G.,2024-03-23
+2024,2,North Melbourne,Fremantle,Docklands,2024-03-23
+2024,2,Sydney,Essendon,S.C.G.,2024-03-23
+2024,2,Richmond,Port Adelaide,M.C.G.,2024-03-24
+2024,2,West Coast,Greater Western Sydney,Perth Stadium,2024-03-24
+2024,2,Western Bulldogs,Gold Coast,Eureka Stadium,2024-03-24
+2024,3,Brisbane,Collingwood,Gabba,2024-03-28
+2024,3,Fremantle,Adelaide,Perth Stadium,2024-03-29
+2024,3,North Melbourne,Carlton,Docklands,2024-03-29
+2024,3,Essendon,St Kilda,Docklands,2024-03-30
+2024,3,Port Adelaide,Melbourne,Adelaide Oval,2024-03-30
+2024,3,Richmond,Sydney,M.C.G.,2024-03-31
+2024,3,Western Bulldogs,West Coast,Docklands,2024-03-31
+2024,3,Hawthorn,Geelong,M.C.G.,2024-04-01
+2024,4,Adelaide,Melbourne,Adelaide Oval,2024-04-04
+2024,4,Brisbane,North Melbourne,Norwood Oval,2024-04-05
+2024,4,Port Adelaide,Essendon,Adelaide Oval,2024-04-05
+2024,4,Fremantle,Carlton,Adelaide Oval,2024-04-06
+2024,4,West Coast,Sydney,Adelaide Hills,2024-04-06
+2024,4,Western Bulldogs,Geelong,Adelaide Oval,2024-04-06
+2024,4,Collingwood,Hawthorn,Adelaide Oval,2024-04-07
+2024,4,Gold Coast,Greater Western Sydney,Adelaide Hills,2024-04-07
+2024,4,Richmond,St Kilda,Norwood Oval,2024-04-07
+2024,5,Melbourne,Brisbane,M.C.G.,2024-04-11
+2024,5,Western Bulldogs,Essendon,Docklands,2024-04-12
+2024,5,Carlton,Adelaide,Docklands,2024-04-13
+2024,5,Gold Coast,Hawthorn,Carrara,2024-04-13
+2024,5,Greater Western Sydney,St Kilda,Manuka Oval,2024-04-13
+2024,5,Port Adelaide,Fremantle,Adelaide Oval,2024-04-13
+2024,5,Geelong,North Melbourne,Kardinia Park,2024-04-14
+2024,5,West Coast,Richmond,Perth Stadium,2024-04-14
+2024,6,St Kilda,Western Bulldogs,Docklands,2024-04-18
+2024,6,Adelaide,Essendon,Adelaide Oval,2024-04-19
+2024,6,Brisbane,Geelong,Gabba,2024-04-20
+2024,6,Carlton,Greater Western Sydney,Docklands,2024-04-20
+2024,6,Collingwood,Port Adelaide,M.C.G.,2024-04-20
+2024,6,West Coast,Fremantle,Perth Stadium,2024-04-20
+2024,6,North Melbourne,Hawthorn,Docklands,2024-04-21
+2024,6,Sydney,Gold Coast,S.C.G.,2024-04-21
+2024,7,Richmond,Melbourne,M.C.G.,2024-04-24
+2024,7,Essendon,Collingwood,M.C.G.,2024-04-25
+2024,7,Greater Western Sydney,Brisbane,Manuka Oval,2024-04-25
+2024,7,Port Adelaide,St Kilda,Adelaide Oval,2024-04-26
+2024,7,Fremantle,Western Bulldogs,Perth Stadium,2024-04-27
+2024,7,Geelong,Carlton,M.C.G.,2024-04-27
+2024,7,North Melbourne,Adelaide,Bellerive Oval,2024-04-27
+2024,7,Gold Coast,West Coast,Carrara,2024-04-28
+2024,7,Hawthorn,Sydney,M.C.G.,2024-04-28
+2024,8,Adelaide,Port Adelaide,Adelaide Oval,2024-05-02
+2024,8,Carlton,Collingwood,M.C.G.,2024-05-03
+2024,8,Melbourne,Geelong,M.C.G.,2024-05-04
+2024,8,St Kilda,North Melbourne,Docklands,2024-05-04
+2024,8,Sydney,Greater Western Sydney,S.C.G.,2024-05-04
+2024,8,West Coast,Essendon,Perth Stadium,2024-05-04
+2024,8,Brisbane,Gold Coast,Gabba,2024-05-05
+2024,8,Richmond,Fremantle,M.C.G.,2024-05-05
+2024,8,Western Bulldogs,Hawthorn,Docklands,2024-05-05
+2024,9,Carlton,Melbourne,M.C.G.,2024-05-09
+2024,9,Fremantle,Sydney,Perth Stadium,2024-05-10
+2024,9,Geelong,Port Adelaide,Kardinia Park,2024-05-10
+2024,9,Essendon,Greater Western Sydney,Docklands,2024-05-11
+2024,9,Gold Coast,North Melbourne,Marrara Oval,2024-05-11
+2024,9,Hawthorn,St Kilda,York Park,2024-05-11
+2024,9,Richmond,Western Bulldogs,M.C.G.,2024-05-11
+2024,9,Adelaide,Brisbane,Adelaide Oval,2024-05-12
+2024,9,Collingwood,West Coast,Docklands,2024-05-12
+2024,10,Gold Coast,Geelong,Marrara Oval,2024-05-16
+2024,10,Sydney,Carlton,S.C.G.,2024-05-17
+2024,10,Brisbane,Richmond,Gabba,2024-05-18
+2024,10,Collingwood,Adelaide,M.C.G.,2024-05-18
+2024,10,Greater Western Sydney,Western Bulldogs,Sydney Showground,2024-05-18
+2024,10,St Kilda,Fremantle,Docklands,2024-05-18
+2024,10,Essendon,North Melbourne,Docklands,2024-05-19
+2024,10,Port Adelaide,Hawthorn,Adelaide Oval,2024-05-19
+2024,10,West Coast,Melbourne,Perth Stadium,2024-05-19
+2024,11,Western Bulldogs,Sydney,Docklands,2024-05-23
+2024,11,Fremantle,Collingwood,Perth Stadium,2024-05-24
+2024,11,Carlton,Gold Coast,Docklands,2024-05-25
+2024,11,Geelong,Greater Western Sydney,Kardinia Park,2024-05-25
+2024,11,North Melbourne,Port Adelaide,Bellerive Oval,2024-05-25
+2024,11,Richmond,Essendon,M.C.G.,2024-05-25
+2024,11,Adelaide,West Coast,Adelaide Oval,2024-05-26
+2024,11,Hawthorn,Brisbane,Docklands,2024-05-26
+2024,11,Melbourne,St Kilda,M.C.G.,2024-05-26
+2024,12,Port Adelaide,Carlton,Adelaide Oval,2024-05-30
+2024,12,Collingwood,Western Bulldogs,Docklands,2024-05-31
+2024,12,Geelong,Richmond,Kardinia Park,2024-06-01
+2024,12,Hawthorn,Adelaide,M.C.G.,2024-06-01
+2024,12,West Coast,St Kilda,Perth Stadium,2024-06-01
+2024,12,Gold Coast,Essendon,Carrara,2024-06-02
+2024,12,Melbourne,Fremantle,Traeger Park,2024-06-02
+2024,13,Adelaide,Richmond,Adelaide Oval,2024-06-06
+2024,13,Western Bulldogs,Brisbane,Docklands,2024-06-07
+2024,13,Hawthorn,Greater Western Sydney,York Park,2024-06-08
+2024,13,St Kilda,Gold Coast,Docklands,2024-06-08
+2024,13,West Coast,North Melbourne,Perth Stadium,2024-06-08
+2024,13,Essendon,Carlton,M.C.G.,2024-06-09
+2024,13,Sydney,Geelong,S.C.G.,2024-06-09
+2024,13,Collingwood,Melbourne,M.C.G.,2024-06-10
+2024,14,Brisbane,St Kilda,Gabba,2024-06-14
+2024,14,Adelaide,Sydney,Adelaide Oval,2024-06-15
+2024,14,Richmond,Hawthorn,M.C.G.,2024-06-15
+2024,14,Western Bulldogs,Fremantle,Docklands,2024-06-15
+2024,14,Greater Western Sydney,Port Adelaide,Sydney Showground,2024-06-16
+2024,14,North Melbourne,Collingwood,Docklands,2024-06-16
+2024,15,Carlton,Geelong,M.C.G.,2024-06-21
+2024,15,Greater Western Sydney,Sydney,Sydney Showground,2024-06-22
+2024,15,Melbourne,North Melbourne,M.C.G.,2024-06-22
+2024,15,Port Adelaide,Brisbane,Adelaide Oval,2024-06-22
+2024,15,Essendon,West Coast,Docklands,2024-06-23
+2024,15,Fremantle,Gold Coast,Perth Stadium,2024-06-23
+2024,16,Brisbane,Melbourne,Gabba,2024-06-28
+2024,16,Adelaide,Greater Western Sydney,Adelaide Oval,2024-06-29
+2024,16,Geelong,Essendon,M.C.G.,2024-06-29
+2024,16,Gold Coast,Collingwood,Carrara,2024-06-29
+2024,16,North Melbourne,Western Bulldogs,Docklands,2024-06-29
+2024,16,Sydney,Fremantle,S.C.G.,2024-06-29
+2024,16,Richmond,Carlton,M.C.G.,2024-06-30
+2024,16,St Kilda,Port Adelaide,Docklands,2024-06-30
+2024,16,West Coast,Hawthorn,Perth Stadium,2024-06-30
+2024,17,Collingwood,Essendon,M.C.G.,2024-07-05
+2024,17,Fremantle,Richmond,Perth Stadium,2024-07-06
+2024,17,Geelong,Hawthorn,Kardinia Park,2024-07-06
+2024,17,Greater Western Sydney,Carlton,Sydney Showground,2024-07-06
+2024,17,North Melbourne,Gold Coast,Docklands,2024-07-06
+2024,17,Port Adelaide,Western Bulldogs,Adelaide Oval,2024-07-06
+2024,17,Brisbane,Adelaide,Gabba,2024-07-07
+2024,17,Melbourne,West Coast,M.C.G.,2024-07-07
+2024,17,St Kilda,Sydney,Docklands,2024-07-07
+2024,18,Collingwood,Geelong,M.C.G.,2024-07-12
+2024,18,Adelaide,St Kilda,Adelaide Oval,2024-07-13
+2024,18,Hawthorn,Fremantle,York Park,2024-07-13
+2024,18,Melbourne,Essendon,M.C.G.,2024-07-13
+2024,18,Sydney,North Melbourne,S.C.G.,2024-07-13
+2024,18,Western Bulldogs,Carlton,Docklands,2024-07-13
+2024,18,Gold Coast,Port Adelaide,Carrara,2024-07-14
+2024,18,Richmond,Greater Western Sydney,M.C.G.,2024-07-14
+2024,18,West Coast,Brisbane,Perth Stadium,2024-07-14
+2024,19,Essendon,Adelaide,Docklands,2024-07-19
+2024,19,Geelong,Western Bulldogs,Kardinia Park,2024-07-20
+2024,19,Greater Western Sydney,Gold Coast,Sydney Showground,2024-07-20
+2024,19,Hawthorn,Collingwood,M.C.G.,2024-07-20
+2024,19,Port Adelaide,Richmond,Adelaide Oval,2024-07-20
+2024,19,St Kilda,West Coast,Docklands,2024-07-20
+2024,19,Brisbane,Sydney,Gabba,2024-07-21
+2024,19,Carlton,North Melbourne,Docklands,2024-07-21
+2024,19,Fremantle,Melbourne,Perth Stadium,2024-07-21
+2024,20,Carlton,Port Adelaide,Docklands,2024-07-26
+2024,20,Fremantle,West Coast,Perth Stadium,2024-07-27
+2024,20,Gold Coast,Brisbane,Carrara,2024-07-27
+2024,20,Melbourne,Greater Western Sydney,M.C.G.,2024-07-27
+2024,20,North Melbourne,Geelong,Bellerive Oval,2024-07-27
+2024,20,St Kilda,Essendon,Docklands,2024-07-27
+2024,20,Adelaide,Hawthorn,Adelaide Oval,2024-07-28
+2024,20,Collingwood,Richmond,M.C.G.,2024-07-28
+2024,20,Sydney,Western Bulldogs,S.C.G.,2024-07-28
+2024,21,West Coast,Gold Coast,Perth Stadium,2024-08-02
+2024,21,Western Bulldogs,Melbourne,Docklands,2024-08-02
+2024,21,Collingwood,Carlton,M.C.G.,2024-08-03
+2024,21,Geelong,Adelaide,Kardinia Park,2024-08-03
+2024,21,North Melbourne,Richmond,Docklands,2024-08-03
+2024,21,Port Adelaide,Sydney,Adelaide Oval,2024-08-03
+2024,21,Essendon,Fremantle,M.C.G.,2024-08-04
+2024,21,Greater Western Sydney,Hawthorn,Manuka Oval,2024-08-04
+2024,21,St Kilda,Brisbane,Docklands,2024-08-04
+2024,22,Sydney,Collingwood,S.C.G.,2024-08-09
+2024,22,Brisbane,Greater Western Sydney,Gabba,2024-08-10
+2024,22,Essendon,Gold Coast,Docklands,2024-08-10
+2024,22,Fremantle,Geelong,Perth Stadium,2024-08-10
+2024,22,Melbourne,Port Adelaide,M.C.G.,2024-08-10
+2024,22,North Melbourne,West Coast,Bellerive Oval,2024-08-10
+2024,22,Adelaide,Western Bulldogs,Adelaide Oval,2024-08-11
+2024,22,Carlton,Hawthorn,M.C.G.,2024-08-11
+2024,22,Richmond,St Kilda,Docklands,2024-08-11
+2024,23,Essendon,Sydney,Docklands,2024-08-16
+2024,23,Collingwood,Brisbane,M.C.G.,2024-08-17
+2024,23,Gold Coast,Melbourne,Carrara,2024-08-17
+2024,23,Greater Western Sydney,Fremantle,Sydney Showground,2024-08-17
+2024,23,Port Adelaide,Adelaide,Adelaide Oval,2024-08-17
+2024,23,St Kilda,Geelong,Docklands,2024-08-17
+2024,23,Hawthorn,Richmond,M.C.G.,2024-08-18
+2024,23,West Coast,Carlton,Perth Stadium,2024-08-18
+2024,23,Western Bulldogs,North Melbourne,Docklands,2024-08-18
+2024,24,Melbourne,Collingwood,M.C.G.,2024-08-23
+2024,24,Brisbane,Essendon,Gabba,2024-08-24
+2024,24,Geelong,West Coast,Kardinia Park,2024-08-24
+2024,24,Hawthorn,North Melbourne,York Park,2024-08-24
+2024,24,Richmond,Gold Coast,M.C.G.,2024-08-24
+2024,24,Sydney,Adelaide,S.C.G.,2024-08-24
+2024,24,Carlton,St Kilda,Docklands,2024-08-25
+2024,24,Fremantle,Port Adelaide,Perth Stadium,2024-08-25
+2024,24,Western Bulldogs,Greater Western Sydney,Eureka Stadium,2024-08-25
+2024,25,Port Adelaide,Geelong,Adelaide Oval,2024-09-05
+2024,25,Western Bulldogs,Hawthorn,M.C.G.,2024-09-06
+2024,25,Brisbane,Carlton,Gabba,2024-09-07
+2024,25,Sydney,Greater Western Sydney,S.C.G.,2024-09-07
+2024,26,Port Adelaide,Hawthorn,Adelaide Oval,2024-09-13
+2024,26,Greater Western Sydney,Brisbane,Sydney Showground,2024-09-14
+2024,27,Sydney,Port Adelaide,S.C.G.,2024-09-20
+2024,27,Geelong,Brisbane,M.C.G.,2024-09-21
+2024,28,Sydney,Brisbane,M.C.G.,2024-09-28
+2025,0,Sydney,Hawthorn,S.C.G.,2025-03-07
+2025,0,Greater Western Sydney,Collingwood,Sydney Showground,2025-03-09
+2025,1,Richmond,Carlton,M.C.G.,2025-03-13
+2025,1,Hawthorn,Essendon,M.C.G.,2025-03-14
+2025,1,Collingwood,Port Adelaide,M.C.G.,2025-03-15
+2025,1,Geelong,Fremantle,Kardinia Park,2025-03-15
+2025,1,Sydney,Brisbane,S.C.G.,2025-03-15
+2025,1,Western Bulldogs,North Melbourne,Docklands,2025-03-15
+2025,1,Adelaide,St Kilda,Adelaide Oval,2025-03-16
+2025,1,Melbourne,Greater Western Sydney,M.C.G.,2025-03-16
+2025,1,West Coast,Gold Coast,Perth Stadium,2025-03-16
+2025,2,Carlton,Hawthorn,M.C.G.,2025-03-20
+2025,2,Western Bulldogs,Collingwood,M.C.G.,2025-03-21
+2025,2,Essendon,Adelaide,M.C.G.,2025-03-22
+2025,2,Port Adelaide,Richmond,Adelaide Oval,2025-03-22
+2025,2,St Kilda,Geelong,Docklands,2025-03-22
+2025,2,Brisbane,West Coast,Gabba,2025-03-23
+2025,2,Fremantle,Sydney,Perth Stadium,2025-03-23
+2025,2,North Melbourne,Melbourne,Docklands,2025-03-23
+2025,3,Essendon,Port Adelaide,Docklands,2025-03-27
+2025,3,Carlton,Western Bulldogs,Docklands,2025-03-28
+2025,3,Brisbane,Geelong,Gabba,2025-03-29
+2025,3,Hawthorn,Greater Western Sydney,York Park,2025-03-29
+2025,3,Melbourne,Gold Coast,M.C.G.,2025-03-29
+2025,3,St Kilda,Richmond,Docklands,2025-03-29
+2025,3,Adelaide,North Melbourne,Adelaide Oval,2025-03-30
+2025,3,West Coast,Fremantle,Perth Stadium,2025-03-30
+2025,4,Collingwood,Carlton,M.C.G.,2025-04-03
+2025,4,Geelong,Melbourne,Kardinia Park,2025-04-04
+2025,4,Gold Coast,Adelaide,Carrara,2025-04-05
+2025,4,North Melbourne,Sydney,Docklands,2025-04-05
+2025,4,Richmond,Brisbane,M.C.G.,2025-04-05
+2025,4,Fremantle,Western Bulldogs,Perth Stadium,2025-04-06
+2025,4,Greater Western Sydney,West Coast,Sydney Showground,2025-04-06
+2025,4,Port Adelaide,St Kilda,Adelaide Oval,2025-04-06
+2025,5,Adelaide,Geelong,Adelaide Oval,2025-04-10
+2025,5,Collingwood,Sydney,Adelaide Oval,2025-04-11
+2025,5,Carlton,West Coast,Adelaide Oval,2025-04-12
+2025,5,Melbourne,Essendon,Adelaide Oval,2025-04-12
+2025,5,North Melbourne,Gold Coast,Barossa Park,2025-04-12
+2025,5,Western Bulldogs,Brisbane,Norwood Oval,2025-04-12
+2025,5,Port Adelaide,Hawthorn,Adelaide Oval,2025-04-13
+2025,5,Richmond,Fremantle,Barossa Park,2025-04-13
+2025,5,St Kilda,Greater Western Sydney,Norwood Oval,2025-04-13
+2025,6,Brisbane,Collingwood,Gabba,2025-04-17
+2025,6,North Melbourne,Carlton,Docklands,2025-04-18
+2025,6,West Coast,Essendon,Perth Stadium,2025-04-18
+2025,6,Adelaide,Greater Western Sydney,Adelaide Oval,2025-04-19
+2025,6,Melbourne,Fremantle,M.C.G.,2025-04-19
+2025,6,Richmond,Gold Coast,Docklands,2025-04-19
+2025,6,Sydney,Port Adelaide,S.C.G.,2025-04-20
+2025,6,Western Bulldogs,St Kilda,Docklands,2025-04-20
+2025,6,Geelong,Hawthorn,M.C.G.,2025-04-21
+2025,7,Melbourne,Richmond,M.C.G.,2025-04-24
+2025,7,Collingwood,Essendon,M.C.G.,2025-04-25
+2025,7,Fremantle,Adelaide,Perth Stadium,2025-04-25
+2025,7,Greater Western Sydney,Western Bulldogs,Manuka Oval,2025-04-26
+2025,7,Port Adelaide,North Melbourne,Adelaide Oval,2025-04-26
+2025,7,St Kilda,Brisbane,Docklands,2025-04-26
+2025,7,Carlton,Geelong,M.C.G.,2025-04-27
+2025,7,Gold Coast,Sydney,Carrara,2025-04-27
+2025,7,Hawthorn,West Coast,Docklands,2025-04-27
+2025,8,Essendon,North Melbourne,Docklands,2025-05-01
+2025,8,St Kilda,Fremantle,Docklands,2025-05-02
+2025,8,Adelaide,Carlton,Adelaide Oval,2025-05-03
+2025,8,Collingwood,Geelong,M.C.G.,2025-05-03
+2025,8,West Coast,Melbourne,Perth Stadium,2025-05-03
+2025,8,Western Bulldogs,Port Adelaide,Eureka Stadium,2025-05-03
+2025,8,Brisbane,Gold Coast,Gabba,2025-05-04
+2025,8,Hawthorn,Richmond,M.C.G.,2025-05-04
+2025,8,Sydney,Greater Western Sydney,S.C.G.,2025-05-04
+2025,9,Fremantle,Collingwood,Perth Stadium,2025-05-08
+2025,9,St Kilda,Carlton,M.C.G.,2025-05-09
+2025,9,Essendon,Sydney,Docklands,2025-05-10
+2025,9,Gold Coast,Western Bulldogs,Marrara Oval,2025-05-10
+2025,9,Melbourne,Hawthorn,M.C.G.,2025-05-10
+2025,9,Port Adelaide,Adelaide,Adelaide Oval,2025-05-10
+2025,9,Geelong,Greater Western Sydney,Kardinia Park,2025-05-11
+2025,9,North Melbourne,Brisbane,Bellerive Oval,2025-05-11
+2025,9,Richmond,West Coast,M.C.G.,2025-05-11
+2025,10,Gold Coast,Hawthorn,Marrara Oval,2025-05-15
+2025,10,Sydney,Carlton,S.C.G.,2025-05-16
+2025,10,Collingwood,Adelaide,M.C.G.,2025-05-17
+2025,10,Greater Western Sydney,Fremantle,Sydney Showground,2025-05-17
+2025,10,Port Adelaide,Geelong,Adelaide Oval,2025-05-17
+2025,10,Western Bulldogs,Essendon,Docklands,2025-05-17
+2025,10,Brisbane,Melbourne,Gabba,2025-05-18
+2025,10,Richmond,North Melbourne,M.C.G.,2025-05-18
+2025,10,West Coast,St Kilda,Perth Stadium,2025-05-18
+2025,11,Geelong,Western Bulldogs,Kardinia Park,2025-05-22
+2025,11,Essendon,Richmond,M.C.G.,2025-05-23
+2025,11,Carlton,Greater Western Sydney,Docklands,2025-05-24
+2025,11,Fremantle,Port Adelaide,Perth Stadium,2025-05-24
+2025,11,Hawthorn,Brisbane,M.C.G.,2025-05-24
+2025,11,North Melbourne,Collingwood,Docklands,2025-05-24
+2025,11,Adelaide,West Coast,Adelaide Oval,2025-05-25
+2025,11,Melbourne,Sydney,M.C.G.,2025-05-25
+2025,11,St Kilda,Gold Coast,Docklands,2025-05-25
+2025,12,Brisbane,Essendon,Gabba,2025-05-29
+2025,12,Collingwood,Hawthorn,M.C.G.,2025-05-30
+2025,12,Gold Coast,Fremantle,Carrara,2025-05-31
+2025,12,Greater Western Sydney,Richmond,Sydney Showground,2025-05-31
+2025,12,Sydney,Adelaide,S.C.G.,2025-05-31
+2025,12,Melbourne,St Kilda,Traeger Park,2025-06-01
+2025,12,West Coast,Geelong,Perth Stadium,2025-06-01
+2025,13,Western Bulldogs,Hawthorn,Docklands,2025-06-05
+2025,13,Adelaide,Brisbane,Adelaide Oval,2025-06-06
+2025,13,Geelong,Gold Coast,Kardinia Park,2025-06-07
+2025,13,Greater Western Sydney,Port Adelaide,Manuka Oval,2025-06-07
+2025,13,Richmond,Sydney,M.C.G.,2025-06-07
+2025,13,Carlton,Essendon,M.C.G.,2025-06-08
+2025,13,North Melbourne,West Coast,Hands Oval,2025-06-08
+2025,13,Melbourne,Collingwood,M.C.G.,2025-06-09
+2025,14,St Kilda,Western Bulldogs,Docklands,2025-06-12
+2025,14,Hawthorn,Adelaide,York Park,2025-06-13
+2025,14,Brisbane,Greater Western Sydney,Gabba,2025-06-14
+2025,14,Essendon,Geelong,M.C.G.,2025-06-14
+2025,14,North Melbourne,Fremantle,Perth Stadium,2025-06-14
+2025,14,Port Adelaide,Melbourne,Adelaide Oval,2025-06-15
+2025,14,West Coast,Carlton,Perth Stadium,2025-06-15
+2025,15,Fremantle,Essendon,Perth Stadium,2025-06-19
+2025,15,Geelong,Brisbane,Kardinia Park,2025-06-20
+2025,15,Carlton,North Melbourne,M.C.G.,2025-06-21
+2025,15,Collingwood,St Kilda,Docklands,2025-06-21
+2025,15,Port Adelaide,Sydney,Adelaide Oval,2025-06-21
+2025,15,Greater Western Sydney,Gold Coast,Sydney Showground,2025-06-22
+2025,15,Western Bulldogs,Richmond,Docklands,2025-06-22
+2025,16,Port Adelaide,Carlton,Adelaide Oval,2025-06-26
+2025,16,Sydney,Western Bulldogs,S.C.G.,2025-06-27
+2025,16,Collingwood,West Coast,Docklands,2025-06-28
+2025,16,Gold Coast,Melbourne,Carrara,2025-06-28
+2025,16,Hawthorn,North Melbourne,York Park,2025-06-28
+2025,16,Fremantle,St Kilda,Perth Stadium,2025-06-29
+2025,16,Richmond,Adelaide,M.C.G.,2025-06-29
+2025,17,North Melbourne,Western Bulldogs,Docklands,2025-07-03
+2025,17,Carlton,Collingwood,M.C.G.,2025-07-04
+2025,17,West Coast,Greater Western Sydney,Perth Stadium,2025-07-04
+2025,17,Brisbane,Port Adelaide,Gabba,2025-07-05
+2025,17,Essendon,Gold Coast,Docklands,2025-07-05
+2025,17,Geelong,Richmond,Kardinia Park,2025-07-05
+2025,17,St Kilda,Hawthorn,Docklands,2025-07-05
+2025,17,Adelaide,Melbourne,Adelaide Oval,2025-07-06
+2025,17,Sydney,Fremantle,S.C.G.,2025-07-06
+2025,18,Carlton,Brisbane,Docklands,2025-07-10
+2025,18,Gold Coast,Collingwood,Carrara,2025-07-11
+2025,18,Fremantle,Hawthorn,Perth Stadium,2025-07-12
+2025,18,Greater Western Sydney,Geelong,Sydney Showground,2025-07-12
+2025,18,Richmond,Essendon,M.C.G.,2025-07-12
+2025,18,Western Bulldogs,Adelaide,Docklands,2025-07-12
+2025,18,Melbourne,North Melbourne,M.C.G.,2025-07-13
+2025,18,Port Adelaide,West Coast,Adelaide Oval,2025-07-13
+2025,18,St Kilda,Sydney,Docklands,2025-07-13
+2025,19,Essendon,Greater Western Sydney,Docklands,2025-07-17
+2025,19,Brisbane,Western Bulldogs,Gabba,2025-07-18
+2025,19,Carlton,Melbourne,M.C.G.,2025-07-19
+2025,19,Hawthorn,Port Adelaide,York Park,2025-07-19
+2025,19,Sydney,North Melbourne,S.C.G.,2025-07-19
+2025,19,West Coast,Richmond,Perth Stadium,2025-07-19
+2025,19,Adelaide,Gold Coast,Adelaide Oval,2025-07-20
+2025,19,Collingwood,Fremantle,M.C.G.,2025-07-20
+2025,19,Geelong,St Kilda,Kardinia Park,2025-07-20
+2025,20,Hawthorn,Carlton,M.C.G.,2025-07-24
+2025,20,Essendon,Western Bulldogs,Docklands,2025-07-25
+2025,20,Greater Western Sydney,Sydney,Sydney Showground,2025-07-25
+2025,20,Adelaide,Port Adelaide,Adelaide Oval,2025-07-26
+2025,20,Fremantle,West Coast,Perth Stadium,2025-07-26
+2025,20,Gold Coast,Brisbane,Carrara,2025-07-26
+2025,20,North Melbourne,Geelong,Docklands,2025-07-26
+2025,20,Richmond,Collingwood,M.C.G.,2025-07-27
+2025,20,St Kilda,Melbourne,Docklands,2025-07-27
+2025,21,Western Bulldogs,Greater Western Sydney,Docklands,2025-07-31
+2025,21,Adelaide,Hawthorn,Adelaide Oval,2025-08-01
+2025,21,Collingwood,Brisbane,M.C.G.,2025-08-02
+2025,21,Gold Coast,Richmond,Carrara,2025-08-02
+2025,21,Melbourne,West Coast,Docklands,2025-08-02
+2025,21,Sydney,Essendon,S.C.G.,2025-08-02
+2025,21,Fremantle,Carlton,Perth Stadium,2025-08-03
+2025,21,Geelong,Port Adelaide,Kardinia Park,2025-08-03
+2025,21,St Kilda,North Melbourne,Docklands,2025-08-03
+2025,22,Hawthorn,Collingwood,M.C.G.,2025-08-07
+2025,22,Geelong,Essendon,Kardinia Park,2025-08-08
+2025,22,Brisbane,Sydney,Gabba,2025-08-09
+2025,22,Carlton,Gold Coast,Docklands,2025-08-09
+2025,22,Port Adelaide,Fremantle,Adelaide Oval,2025-08-09
+2025,22,Richmond,St Kilda,M.C.G.,2025-08-09
+2025,22,Greater Western Sydney,North Melbourne,Manuka Oval,2025-08-10
+2025,22,Melbourne,Western Bulldogs,M.C.G.,2025-08-10
+2025,22,West Coast,Adelaide,Perth Stadium,2025-08-10
+2025,23,Essendon,St Kilda,Docklands,2025-08-15
+2025,23,Fremantle,Brisbane,Perth Stadium,2025-08-15
+2025,23,Adelaide,Collingwood,Adelaide Oval,2025-08-16
+2025,23,Carlton,Port Adelaide,Docklands,2025-08-16
+2025,23,Gold Coast,Greater Western Sydney,Carrara,2025-08-16
+2025,23,Hawthorn,Melbourne,M.C.G.,2025-08-16
+2025,23,North Melbourne,Richmond,Bellerive Oval,2025-08-17
+2025,23,Sydney,Geelong,S.C.G.,2025-08-17
+2025,23,Western Bulldogs,West Coast,Docklands,2025-08-17
+2025,24,Essendon,Carlton,M.C.G.,2025-08-21
+2025,24,Collingwood,Melbourne,M.C.G.,2025-08-22
+2025,24,Port Adelaide,Gold Coast,Adelaide Oval,2025-08-22
+2025,24,North Melbourne,Adelaide,Docklands,2025-08-23
+2025,24,Richmond,Geelong,M.C.G.,2025-08-23
+2025,24,West Coast,Sydney,Perth Stadium,2025-08-23
+2025,24,Brisbane,Hawthorn,Gabba,2025-08-24
+2025,24,Greater Western Sydney,St Kilda,Sydney Showground,2025-08-24
+2025,24,Western Bulldogs,Fremantle,Docklands,2025-08-24
+2025,24,Gold Coast,Essendon,Carrara,2025-08-27
+2025,25,Adelaide,Collingwood,Adelaide Oval,2025-09-04
+2025,25,Geelong,Brisbane,M.C.G.,2025-09-05
+2025,25,Fremantle,Gold Coast,Perth Stadium,2025-09-06
+2025,25,Greater Western Sydney,Hawthorn,Sydney Showground,2025-09-06
+2025,26,Adelaide,Hawthorn,Adelaide Oval,2025-09-12
+2025,26,Brisbane,Gold Coast,Gabba,2025-09-13
+2025,27,Geelong,Hawthorn,M.C.G.,2025-09-19
+2025,27,Collingwood,Brisbane,M.C.G.,2025-09-20
+2025,28,Geelong,Brisbane,M.C.G.,2025-09-27
+2026,0,Sydney,Carlton,S.C.G.,2026-03-05
+2026,0,Gold Coast,Geelong,Carrara,2026-03-06
+2026,0,Brisbane,Western Bulldogs,Gabba,2026-03-07
+2026,0,Greater Western Sydney,Hawthorn,Sydney Showground,2026-03-07
+2026,0,St Kilda,Collingwood,M.C.G.,2026-03-08
+2026,1,Carlton,Richmond,M.C.G.,2026-03-12
+2026,1,Essendon,Hawthorn,M.C.G.,2026-03-13
+2026,1,Collingwood,Adelaide,M.C.G.,2026-03-14
+2026,1,Geelong,Fremantle,Kardinia Park,2026-03-14
+2026,1,Sydney,Brisbane,S.C.G.,2026-03-14
+2026,1,Western Bulldogs,Greater Western Sydney,Docklands,2026-03-14
+2026,1,Gold Coast,West Coast,Carrara,2026-03-15
+2026,1,Melbourne,St Kilda,M.C.G.,2026-03-15
+2026,1,North Melbourne,Port Adelaide,Docklands,2026-03-15
+2026,2,Hawthorn,Sydney,M.C.G.,2026-03-19
+2026,2,Adelaide,Western Bulldogs,Adelaide Oval,2026-03-20
+2026,2,Fremantle,Melbourne,Perth Stadium,2026-03-21
+2026,2,Greater Western Sydney,St Kilda,Sydney Showground,2026-03-21
+2026,2,Richmond,Gold Coast,M.C.G.,2026-03-21
+2026,2,Port Adelaide,Essendon,Adelaide Oval,2026-03-22
+2026,2,West Coast,North Melbourne,Perth Stadium,2026-03-22
+2026,3,Geelong,Adelaide,Kardinia Park,2026-03-26
+2026,3,Collingwood,Greater Western Sydney,Docklands,2026-03-27
+2026,3,Essendon,North Melbourne,Docklands,2026-03-28
+2026,3,Fremantle,Richmond,Perth Stadium,2026-03-28
+2026,3,St Kilda,Brisbane,Docklands,2026-03-28
+2026,3,Carlton,Melbourne,M.C.G.,2026-03-29
+2026,3,Port Adelaide,West Coast,Adelaide Oval,2026-03-29
+2026,4,Brisbane,Collingwood,Gabba,2026-04-02
+2026,4,Adelaide,Fremantle,Adelaide Oval,2026-04-03
+2026,4,North Melbourne,Carlton,Docklands,2026-04-03
+2026,4,Richmond,Port Adelaide,M.C.G.,2026-04-04
+2026,4,West Coast,Sydney,Perth Stadium,2026-04-04
+2026,4,Melbourne,Gold Coast,M.C.G.,2026-04-05
+2026,4,Western Bulldogs,Essendon,Docklands,2026-04-05
+2026,4,Hawthorn,Geelong,M.C.G.,2026-04-06
+2026,5,Adelaide,Carlton,Adelaide Oval,2026-04-09
+2026,5,Collingwood,Fremantle,Adelaide Oval,2026-04-10
+2026,5,Essendon,Melbourne,Adelaide Oval,2026-04-11
+2026,5,Hawthorn,Western Bulldogs,Adelaide Oval,2026-04-11
+2026,5,North Melbourne,Brisbane,Barossa Park,2026-04-11
+2026,5,Sydney,Gold Coast,Norwood Oval,2026-04-11
+2026,5,Geelong,West Coast,Norwood Oval,2026-04-12
+2026,5,Greater Western Sydney,Richmond,Barossa Park,2026-04-12
+2026,5,Port Adelaide,St Kilda,Adelaide Oval,2026-04-12
+2026,6,Carlton,Collingwood,M.C.G.,2026-04-16
+2026,6,Geelong,Western Bulldogs,Kardinia Park,2026-04-17
+2026,6,Sydney,Greater Western Sydney,S.C.G.,2026-04-17
+2026,6,Adelaide,St Kilda,Adelaide Oval,2026-04-18
+2026,6,Gold Coast,Essendon,Carrara,2026-04-18
+2026,6,Hawthorn,Port Adelaide,Docklands,2026-04-18
+2026,6,Melbourne,Brisbane,M.C.G.,2026-04-19
+2026,6,North Melbourne,Richmond,Docklands,2026-04-19
+2026,6,West Coast,Fremantle,Perth Stadium,2026-04-19
+2026,7,Western Bulldogs,Sydney,Docklands,2026-04-23
+2026,7,Richmond,Melbourne,M.C.G.,2026-04-24
+2026,7,Essendon,Collingwood,M.C.G.,2026-04-25
+2026,7,Fremantle,Carlton,Perth Stadium,2026-04-25
+2026,7,Hawthorn,Gold Coast,York Park,2026-04-25
+2026,7,Port Adelaide,Geelong,Adelaide Oval,2026-04-25
+2026,7,Brisbane,Adelaide,Gabba,2026-04-26
+2026,7,Greater Western Sydney,North Melbourne,Manuka Oval,2026-04-26
+2026,7,St Kilda,West Coast,Docklands,2026-04-26
+2026,8,Collingwood,Hawthorn,M.C.G.,2026-04-30
+2026,8,Adelaide,Port Adelaide,Adelaide Oval,2026-05-01
+2026,8,Western Bulldogs,Fremantle,Docklands,2026-05-01
+2026,8,Carlton,St Kilda,Docklands,2026-05-02
+2026,8,Essendon,Brisbane,Docklands,2026-05-02
+2026,8,Geelong,North Melbourne,Kardinia Park,2026-05-02
+2026,8,West Coast,Richmond,Perth Stadium,2026-05-02
+2026,8,Gold Coast,Greater Western Sydney,Carrara,2026-05-03
+2026,8,Sydney,Melbourne,S.C.G.,2026-05-03
+2026,9,Fremantle,Hawthorn,Perth Stadium,2026-05-07
+2026,9,Brisbane,Carlton,Gabba,2026-05-08
+2026,9,Port Adelaide,Western Bulldogs,Adelaide Oval,2026-05-08
+2026,9,Geelong,Collingwood,M.C.G.,2026-05-09
+2026,9,Gold Coast,St Kilda,Marrara Oval,2026-05-09
+2026,9,Greater Western Sydney,Essendon,Sydney Showground,2026-05-09
+2026,9,North Melbourne,Sydney,Docklands,2026-05-09
+2026,9,Melbourne,West Coast,Docklands,2026-05-10
+2026,9,Richmond,Adelaide,M.C.G.,2026-05-10
+2026,10,Brisbane,Geelong,Gabba,2026-05-14
+2026,10,Gold Coast,Port Adelaide,Marrara Oval,2026-05-15
+2026,10,Sydney,Collingwood,S.C.G.,2026-05-15
+2026,10,Adelaide,North Melbourne,Adelaide Oval,2026-05-16
+2026,10,Carlton,Western Bulldogs,Docklands,2026-05-16
+2026,10,Melbourne,Hawthorn,M.C.G.,2026-05-16
+2026,10,Essendon,Fremantle,M.C.G.,2026-05-17
+2026,10,St Kilda,Richmond,Docklands,2026-05-17
+2026,10,West Coast,Greater Western Sydney,Perth Stadium,2026-05-17
+2026,11,Hawthorn,Adelaide,York Park,2026-05-21
+2026,11,Fremantle,St Kilda,Perth Stadium,2026-05-22
+2026,11,Richmond,Essendon,M.C.G.,2026-05-22
+2026,11,Collingwood,West Coast,M.C.G.,2026-05-23
+2026,11,Geelong,Sydney,Kardinia Park,2026-05-23
+2026,11,North Melbourne,Gold Coast,Docklands,2026-05-23
+2026,11,Port Adelaide,Carlton,Adelaide Oval,2026-05-23
+2026,11,Greater Western Sydney,Brisbane,Sydney Showground,2026-05-24
+2026,11,Western Bulldogs,Melbourne,Docklands,2026-05-24
+2026,12,St Kilda,Hawthorn,Docklands,2026-05-28
+2026,12,Carlton,Geelong,M.C.G.,2026-05-29
+2026,12,Brisbane,Fremantle,Gabba,2026-05-30
+2026,12,Sydney,Richmond,S.C.G.,2026-05-30
+2026,12,Western Bulldogs,Collingwood,Docklands,2026-05-30
+2026,12,Melbourne,Greater Western Sydney,Traeger Park,2026-05-31
+2026,12,West Coast,Essendon,Perth Stadium,2026-05-31
+2026,13,Adelaide,Geelong,Adelaide Oval,2026-06-04
+2026,13,Hawthorn,Western Bulldogs,M.C.G.,2026-06-05
+2026,13,Gold Coast,Brisbane,Carrara,2026-06-06
+2026,13,North Melbourne,Fremantle,Hands Oval,2026-06-06
+2026,13,West Coast,Port Adelaide,Perth Stadium,2026-06-06
+2026,13,Essendon,Carlton,M.C.G.,2026-06-07
+2026,13,Sydney,St Kilda,S.C.G.,2026-06-07
+2026,13,Collingwood,Melbourne,M.C.G.,2026-06-08
+2026,14,Western Bulldogs,Adelaide,Docklands,2026-06-11
+2026,14,Geelong,Gold Coast,Kardinia Park,2026-06-12
+2026,14,Melbourne,Essendon,M.C.G.,2026-06-13
+2026,14,North Melbourne,West Coast,Perth Stadium,2026-06-13
+2026,14,Port Adelaide,Sydney,Adelaide Oval,2026-06-13
+2026,14,Richmond,Brisbane,Bellerive Oval,2026-06-14
+2026,14,St Kilda,Greater Western Sydney,Docklands,2026-06-14
+2026,15,Fremantle,Geelong,Perth Stadium,2026-06-18
+2026,15,Gold Coast,Hawthorn,Carrara,2026-06-19
+2026,15,Adelaide,Melbourne,Adelaide Oval,2026-06-20
+2026,15,Collingwood,Port Adelaide,M.C.G.,2026-06-20
+2026,15,Greater Western Sydney,Carlton,Sydney Showground,2026-06-20
+2026,15,Richmond,North Melbourne,M.C.G.,2026-06-21
+2026,15,St Kilda,Western Bulldogs,Docklands,2026-06-21
+2026,16,Brisbane,Sydney,Gabba,2026-06-25
+2026,16,Hawthorn,Greater Western Sydney,M.C.G.,2026-06-26
+2026,16,Carlton,West Coast,Docklands,2026-06-27
+2026,16,Collingwood,Richmond,M.C.G.,2026-06-27
+2026,16,Port Adelaide,Adelaide,Adelaide Oval,2026-06-27
+2026,16,Fremantle,Gold Coast,Perth Stadium,2026-06-28
+2026,16,North Melbourne,Essendon,Docklands,2026-06-28
+2026,17,Geelong,Brisbane,Kardinia Park,2026-07-02
+2026,17,Sydney,Western Bulldogs,S.C.G.,2026-07-03
+2026,17,West Coast,Adelaide,Perth Stadium,2026-07-03
+2026,17,Gold Coast,Collingwood,Carrara,2026-07-04
+2026,17,Greater Western Sydney,Fremantle,Manuka Oval,2026-07-04
+2026,17,Hawthorn,Melbourne,York Park,2026-07-04
+2026,17,Richmond,Carlton,M.C.G.,2026-07-04
+2026,17,Essendon,St Kilda,Docklands,2026-07-05
+2026,17,Port Adelaide,North Melbourne,Adelaide Oval,2026-07-05
+2026,18,Fremantle,Sydney,Perth Stadium,2026-07-09
+2026,18,Collingwood,North Melbourne,Docklands,2026-07-10
+2026,18,Adelaide,Gold Coast,Adelaide Oval,2026-07-11
+2026,18,Carlton,Hawthorn,M.C.G.,2026-07-11
+2026,18,Greater Western Sydney,Geelong,Sydney Showground,2026-07-11
+2026,18,St Kilda,Port Adelaide,Docklands,2026-07-11
+2026,18,Brisbane,Essendon,Gabba,2026-07-12
+2026,18,Melbourne,Richmond,M.C.G.,2026-07-12
+2026,18,Western Bulldogs,West Coast,Docklands,2026-07-12
+2026,19,Geelong,St Kilda,Kardinia Park,2026-07-16
+2026,19,Sydney,Adelaide,S.C.G.,2026-07-17
+2026,19,Collingwood,Carlton,M.C.G.,2026-07-18
+2026,19,North Melbourne,Melbourne,Docklands,2026-07-18
+2026,19,Port Adelaide,Fremantle,Adelaide Oval,2026-07-18
+2026,19,West Coast,Brisbane,Perth Stadium,2026-07-18
+2026,19,Essendon,Greater Western Sydney,Docklands,2026-07-19
+2026,19,Gold Coast,Western Bulldogs,Carrara,2026-07-19
+2026,19,Richmond,Hawthorn,M.C.G.,2026-07-19
+2026,20,Adelaide,Collingwood,Adelaide Oval,2026-07-23
+2026,20,Fremantle,West Coast,Perth Stadium,2026-07-24
+2026,20,Melbourne,Geelong,M.C.G.,2026-07-24
+2026,20,Carlton,Gold Coast,Docklands,2026-07-25
+2026,20,Greater Western Sydney,Sydney,Sydney Showground,2026-07-25
+2026,20,Hawthorn,Essendon,M.C.G.,2026-07-25
+2026,20,Western Bulldogs,Richmond,Docklands,2026-07-25
+2026,20,Brisbane,Port Adelaide,Gabba,2026-07-26
+2026,20,North Melbourne,St Kilda,Docklands,2026-07-26
+2026,21,Collingwood,Geelong,M.C.G.,2026-07-30
+2026,21,Fremantle,Western Bulldogs,Perth Stadium,2026-07-31
+2026,21,Carlton,Brisbane,Docklands,2026-08-01
+2026,21,Hawthorn,North Melbourne,York Park,2026-08-01
+2026,21,Port Adelaide,Greater Western Sydney,Adelaide Oval,2026-08-01
+2026,21,St Kilda,Sydney,Docklands,2026-08-01
+2026,21,Essendon,Adelaide,Docklands,2026-08-02
+2026,21,Gold Coast,Melbourne,Carrara,2026-08-02
+2026,21,Richmond,West Coast,M.C.G.,2026-08-02
+2026,22,Western Bulldogs,North Melbourne,Docklands,2026-08-06
+2026,22,Brisbane,Hawthorn,Gabba,2026-08-07
+2026,22,Adelaide,Richmond,Adelaide Oval,2026-08-08
+2026,22,Geelong,Essendon,Kardinia Park,2026-08-08
+2026,22,Melbourne,Fremantle,M.C.G.,2026-08-08
+2026,22,Sydney,Port Adelaide,S.C.G.,2026-08-08
+2026,22,Greater Western Sydney,Gold Coast,Manuka Oval,2026-08-09
+2026,22,St Kilda,Carlton,Docklands,2026-08-09
+2026,22,West Coast,Collingwood,Perth Stadium,2026-08-09
+2026,23,Fremantle,Adelaide,Perth Stadium,2026-08-14
+2026,23,Brisbane,Gold Coast,Gabba,2026-08-15
+2026,23,Hawthorn,Collingwood,M.C.G.,2026-08-15
+2026,23,North Melbourne,Geelong,Docklands,2026-08-15
+2026,23,Port Adelaide,Melbourne,Adelaide Oval,2026-08-15
+2026,23,Richmond,St Kilda,M.C.G.,2026-08-15
+2026,23,Essendon,Sydney,M.C.G.,2026-08-16
+2026,23,Greater Western Sydney,West Coast,Sydney Showground,2026-08-16
+2026,23,Western Bulldogs,Carlton,Docklands,2026-08-16
+2026,24,St Kilda,Gold Coast,Docklands,2026-08-20
+2026,24,Collingwood,Brisbane,M.C.G.,2026-08-21
+2026,24,Adelaide,Greater Western Sydney,Adelaide Oval,2026-08-22
+2026,24,Carlton,Fremantle,Docklands,2026-08-22
+2026,24,Geelong,Richmond,Kardinia Park,2026-08-22
+2026,24,Melbourne,Western Bulldogs,M.C.G.,2026-08-22
+2026,24,Essendon,Port Adelaide,Docklands,2026-08-23
+2026,24,Sydney,North Melbourne,S.C.G.,2026-08-23
+2026,24,West Coast,Hawthorn,Perth Stadium,2026-08-23
+2026,25,Western Bulldogs,Collingwood,M.C.G.,2026-08-28
+2026,25,Melbourne,Carlton,M.C.G.,2026-08-29
+2026,26,Fremantle,Hawthorn,Perth Stadium,2026-09-03
+2026,26,Geelong,Carlton,M.C.G.,2026-09-04
+2026,26,Adelaide,Western Bulldogs,Adelaide Oval,2026-09-05
+2026,26,Sydney,Brisbane,S.C.G.,2026-09-05
+2026,27,Fremantle,Geelong,Perth Stadium,2026-09-11
+2026,27,Brisbane,Adelaide,Gabba,2026-09-12
+2026,28,Sydney,Fremantle,S.C.G.,2026-09-18
+2026,28,Hawthorn,Brisbane,M.C.G.,2026-09-19
+2026,29,Fremantle,Brisbane,M.C.G.,2026-09-26
